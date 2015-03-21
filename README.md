@@ -41,12 +41,12 @@ This assignment uses data collected from the accelerometers from the Samsung Gal
 
 #### Assigning descriptive activity names to activity code
 
-* The dataset created in the last step was merged to Activity labels dataset using merge() function
+	* The dataset created in the last step was merged to Activity labels dataset using merge() function
 
 #### Labelling the data set with descriptive variable names
 
 1. Used the dataset created using features.txt to allocate column names to a dataset of X_train.txt & X_test.txt (561-feature vector with time and frequency domain variables)
-	Note: This step was done while loading the X_train.txt & X_test.txt in R
+	*	Note: This step was done while loading the X_train.txt & X_test.txt in R
 
 #### Creating a second, independent tidy data set with the average of each variable for each activity and each subject
 
